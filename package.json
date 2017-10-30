@@ -29,7 +29,7 @@
     "test": "nyc --reporter lcov ava packages/*/test"
   },
   "devDependencies": {
-    "ava": "^0.22.0",
+    "ava": "^0.23.0",
     "changelog": "^1.4.0",
     "codecov": "^2.3.0",
     "eslint-plugin-prettier": "^2.3.1",
