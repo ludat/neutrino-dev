@@ -25,7 +25,7 @@
     "neutrino-middleware-copy": "^7.3.1",
     "neutrino-middleware-hot": "^7.3.1",
     "neutrino-middleware-start-server": "^7.3.1",
-    "ramda": "^0.24.1",
+    "ramda": "^0.25.0",
     "webpack": "^3.6.0",
     "webpack-node-externals": "^1.6.0"
   },
